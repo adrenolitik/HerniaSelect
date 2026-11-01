@@ -1,0 +1,6 @@
+{
+  "name": "HerniaSelect - Inguinal Hernia Surgery Procedure Decision Support",
+  "description": "Evidence-based surgical procedure selection tool for inguinal hernia repair based on HerniaSurge, EAES 2026, and European Hernia Society clinical guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
